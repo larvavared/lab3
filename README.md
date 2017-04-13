@@ -1,6 +1,7 @@
 # lab3
 
 QuestionA
+
 宣告出一個vector,讓他去儲存n頭牛的重量,
 再利用sort()函式將接收到的數字由小排到大,
 之後用一個for迴圈,從第n-1格(vector)一直加到第n-6格
